@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # I'm Saikat Roy
+## Executive Developer (Dokmi BD)
 
 <!--
 **njmsaikat/njmsaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

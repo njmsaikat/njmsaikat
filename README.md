@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: https://njmsaikat.github.io/saikat/
+- 📫 How to reach me: https://sites.google.com/view/saikatroy
 
 
 - ⚡ Fun fact: Active mostly at morning,

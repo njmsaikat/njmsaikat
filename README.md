@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Saikat Roy
-## Junior SOftware Developer (Germania Holdings LTD.)
+## Junior Software Developer (Germania Holdings LTD.)
 
 <!--
 **njmsaikat/njmsaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

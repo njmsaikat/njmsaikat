@@ -25,14 +25,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Active mostly at morning,
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact)](https://github.com/njmsaikat/github-readme-stats)
-
-
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical)
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />
 </a>

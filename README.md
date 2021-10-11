@@ -35,3 +35,11 @@ Here are some ideas to get you started:
 </a>
 
 
+
+### 📊 Github Stats
+<a href='https://github.com/njmsaikat/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/njmsaikat/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/njmsaikat/github-stats-transparent/output/generated/languages.svg)
+
+</a>

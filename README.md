@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical)
 
-<a href="https://github.com/njmsaikat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=njmsaikat&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact">
+  <img align="center" src="https://github.com/njmsaikat/github-readme-stats" />
 </a>
-<a href="https://github.com/njmsaikat/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=njmsaikat&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />
 </a>
 
 

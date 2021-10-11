@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Active mostly at morning,
 
-[![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmsaikat)](https://github.com/njmsaikat/github-readme-stats)
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical)
+

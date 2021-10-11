@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact" />
 </a> -->
 
-<a href="https://saikatroy.netlify.app/" _blank="true">
+<a href="https://saikatroy.netlify.app/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />
 </a>
 

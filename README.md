@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: Soikot Roy
-- 
 
 - 📫 How to reach me: https://saikatroy.netlify.app/
 
@@ -33,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact" />
-</a>
+</a> -->
 
 <a href="https://saikatroy.netlify.app/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />

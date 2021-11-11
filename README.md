@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 Worked on Web-Design and Developing, PHP, MySql, Wordpress, Shopify
 
-- 👯 Comfortable with Git, Docker, NGINX, DIgital Ocean, Looking forward to work on AWS
+- 👯 Comfortable with Git, Docker, NGINX, Digital Ocean, Looking forward to work on AWS
 
 <!--
 

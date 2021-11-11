@@ -11,18 +11,21 @@
 Here are some ideas to get you started:
 -->
 
+- 🌱 I’m currently learning Database Relations, Python, Django & ReactJS
 
-- 🔭 I’m currently working on PHP, MySql, Web-Design and Developing, Wordpress, Shopify
+- 🔭 Worked on Web-Design and Developing, PHP, MySql, Wordpress, Shopify
 
-- 🌱 I’m currently learning Database Relations, Python, Django
+- 👯 Comfortable with Git, Docker, NGINX, DIgital Ocean, Looking forward to work on AWS
+
 <!--
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+-->
 
 - 😄 Pronouns: Soikot Roy
 
 - 💬 Ask me about ...
--->
+
 - 📫 How to reach me: https://saikatroy.netlify.app/
 
 

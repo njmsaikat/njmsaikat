@@ -11,11 +11,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Database Relations, Python, Django & ReactJS
+- 🌱 I’m currently learning Database Relations, PostgreSQL, Python, Django & ReactJS
 
 - 🔭 Worked on Web-Design and Developing, PHP, MySql, Wordpress, Shopify
 
-- 👯 Comfortable with Git, Docker, NGINX, Digital Ocean, Looking forward to work on AWS
+- 👯 Comfortable with Git, Docker, NGINX, Apache, Digital Ocean, Looking forward to work on AWS
 
 <!--
 

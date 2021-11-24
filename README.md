@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Active mostly at morning,
 - 🌃 Get a skyline View of my Repo -https://skyline.github.com/njmsaikat/2020
 
+
+You like my work !?!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/njmsaikat)
+
 ### 📊 Github Stats
 
 <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=njmsaikat&layout=compact">

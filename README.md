@@ -49,4 +49,4 @@ You like my work !?!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njmsaikat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/njmsaikat"><img src="https://api.daily.dev/devcards/bc21ba73a6db4d3793f40b1517958919.png?r=myf" width="400" alt="Saikat Roy's Dev Card"/></a>
+<a href="https://app.daily.dev/njmsaikat"><img src="https://api.daily.dev/devcards/bc21ba73a6db4d3793f40b1517958919.png?r=myf" width="200" alt="Saikat Roy's Dev Card"/></a>

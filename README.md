@@ -5,6 +5,7 @@
 [![Twitter: Saikat](https://img.shields.io/twitter/follow/njmsaikat?style=social)](https://twitter.com/njmsaikat)
 [![Linkedin: Saikat](https://img.shields.io/badge/-njmsaikat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njmsaikat/)](https://www.linkedin.com/in/njmsaikat/)
 [![GitHub Saikat](https://img.shields.io/github/followers/njmsaikat?label=follow&style=social)](https://github.com/njmsaikat)
+[![Saikat Roy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11168176)](https://stackoverflow.com/users/11168176/saikat-roy)
 
 <!--
 **njmsaikat/njmsaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

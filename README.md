@@ -52,4 +52,8 @@ You like my work !?!
 
 <a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="300" alt="Saikat Roy's Dev Card"/></a>
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://app.daily.dev/posts/He-FMzTRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [30 browser extensions every developer should have](https://app.daily.dev/posts/kVhHn4c6S?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->

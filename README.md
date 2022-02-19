@@ -45,12 +45,10 @@ You like my work !?!
 </a> -->
 
 <a href="https://saikatroy.netlify.app/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=njmsaikat&show_icons=true&theme=radical" />
 </a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njmsaikat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="300" alt="Saikat Roy's Dev Card"/></a>
+<a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="150" alt="Saikat Roy's Dev Card"/></a>
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->

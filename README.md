@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 You like my work !?!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/njmsaikat)
-[![Saikat Roy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11168176&layout=compact&theme=dark)](https://stackoverflow.com/users/11168176/saikat-roy)
 
 ### 📊 Github Stats
 
@@ -50,6 +49,7 @@ You like my work !?!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njmsaikat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="150" alt="Saikat Roy's Dev Card"/></a>
+[![Saikat Roy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11168176&theme=dark)](https://stackoverflow.com/users/11168176/saikat-roy)
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->

@@ -24,6 +24,7 @@
 
 - Google Developer Profile - https://g.dev/njmsaikat
 
+<a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="400" alt="Saikat Roy's Dev Card"/></a>
 
 
 ### 📊 Community Activities

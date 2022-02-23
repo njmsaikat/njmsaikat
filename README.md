@@ -26,6 +26,7 @@
 
 ### 📊 Community Activities
 <a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="230" alt="Saikat Roy's Dev Card"/></a>
+
 <a href="https://app.daily.dev/njmsaikat"><img src="https://api.daily.dev/devcards/bc21ba73a6db4d3793f40b1517958919.png?r=gno" width="230" alt="Saikat Roy's Dev Card"/></a>
 [![Saikat Roy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11168176&theme=dark)](https://stackoverflow.com/users/11168176/saikat-roy)
 <a href="https://saikatroy.netlify.app/" target="_blank">

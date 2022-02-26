@@ -8,6 +8,8 @@
 [![Linkedin: Saikat](https://img.shields.io/badge/-njmsaikat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njmsaikat/)](https://www.linkedin.com/in/njmsaikat/)
 [![GitHub Saikat](https://img.shields.io/github/followers/njmsaikat?label=follow&style=social)](https://github.com/njmsaikat)
 
+Web Developer | Traveler | Reader | Learner | Tech Enthusiast | Open Source supporter and contributor 
+Feel passionate about what I do. 🤠
 
 - 🌱 I’m currently learning Database Relations, PostgreSQL, Python, Django & ReactJS
 

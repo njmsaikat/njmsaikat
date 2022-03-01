@@ -37,6 +37,7 @@ Feel passionate about what I do. 🤠
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=njmsaikat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
 
+
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
 - [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)

@@ -40,6 +40,7 @@ Feel passionate about what I do. 🤠
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
+- [Creating Dashboards in React using React Dashboards](https://app.daily.dev/posts/BfH3lX0GY?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://app.daily.dev/posts/He-FMzTRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [30 browser extensions every developer should have](https://app.daily.dev/posts/kVhHn4c6S?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)

@@ -40,9 +40,9 @@ Feel passionate about what I do. 🤠
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
+- [30 Web Development Best Practices for Beginners](https://app.daily.dev/posts/sRqsG5CVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [How to Solve Git Merge Conflicts](https://app.daily.dev/posts/cfioQ-cvQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [7 Best Developer Productivity Tools of 2022](https://app.daily.dev/posts/mbDQU4sRt?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Kubernetes Architecture](https://app.daily.dev/posts/yVWmQkM__?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Software Architecture Pattern: Microservice Architecture](https://app.daily.dev/posts/T87R2dtMJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [Build your first CRUD API with AWS ☁️](https://app.daily.dev/posts/W1GFpO2YL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->

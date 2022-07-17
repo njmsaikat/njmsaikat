@@ -24,6 +24,7 @@ Feel passionate about what I do. 🤠
 
 - ⚡ Fun fact: Active mostly at morning,
 - 🌃 Get a skyline View of my Repo -https://skyline.github.com/njmsaikat/2021
+- 🌆 Github city - [https://honzaap.github.io/GithubCity/](https://honzaap.github.io/GithubCity/?name=njmsaikat&year=2021)
 
 - Google Developer Profile - https://g.dev/njmsaikat
 

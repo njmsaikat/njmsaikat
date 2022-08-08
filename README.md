@@ -41,9 +41,9 @@ Feel passionate about what I do. 🤠
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Amazing GitHub Repositories Every Developer Should Follow](https://app.daily.dev/posts/wY43DzyRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [11 Authentication Mistakes and how to fix them](https://app.daily.dev/posts/KiL1C-Fx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Top 10 Security Testing Tools for Developers](https://app.daily.dev/posts/B2UynG5LL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [30 Web Development Best Practices for Beginners](https://app.daily.dev/posts/sRqsG5CVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [How to Solve Git Merge Conflicts](https://app.daily.dev/posts/cfioQ-cvQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [7 Best Developer Productivity Tools of 2022](https://app.daily.dev/posts/mbDQU4sRt?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->

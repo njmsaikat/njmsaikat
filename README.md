@@ -12,11 +12,11 @@ Web Developer | Traveler | Reader | Learner | Tech Enthusiast | Open Source supp
 
 Feel passionate about what I do. 🤠
 
-- 🌱 I’m currently learning Database Relations, PostgreSQL, Python, Django & ReactJS
+- 🌱 I’m currently playing with Database Relations, PostgreSQL, Python, Django, ReactJS, AWS
 
 - 🔭 Worked on Web-Design and Developing, PHP, MySql, Wordpress, Shopify
 
-- 👯 Comfortable with Git, Docker, NGINX, Apache, Digital Ocean, Looking forward to work on AWS
+- 👯 Comfortable with Git, Docker, NGINX, Apache, Digital Ocean
 
 - 😄 Pronouns: Soikot Roy
 

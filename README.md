@@ -41,9 +41,9 @@ Feel passionate about what I do. 🤠
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 8 YouTube Channels for System Design Interview Preparation](https://app.daily.dev/posts/GKq0ce2zp?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Soft skill books that will make you a better developer](https://app.daily.dev/posts/bpZA7fM3X?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [The 7 Software Architecture Books Experienced Developers Need to Read](https://app.daily.dev/posts/V1ABF8iyt?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [9 Free Resources to Master Python](https://app.daily.dev/posts/3qQS5D5Il?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [10 Amazing GitHub Repositories Every Developer Should Follow](https://app.daily.dev/posts/wY43DzyRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [11 Authentication Mistakes and how to fix them](https://app.daily.dev/posts/KiL1C-Fx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->

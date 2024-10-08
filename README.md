@@ -41,9 +41,9 @@ Feel passionate about what I do. 🤠
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/lOLyurzgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Cheatsheets for Developers](https://app.daily.dev/posts/2mkBsovAW?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Message Queues &amp; Message Brokers](https://app.daily.dev/posts/cbHI6WlD6?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [Clean Code: 7 tips to write clean functions](https://app.daily.dev/posts/YXi7yiXDl?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 - [40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://app.daily.dev/posts/NriCryRaS?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [EP115: Life is Short, Use Dev Tools](https://app.daily.dev/posts/euI7FFM0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->

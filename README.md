@@ -24,7 +24,6 @@ I’m passionate about building scalable, maintainable systems and love explorin
 - 🌃 **Fun fact**: Most active in the mornings 🌅  
 
 ### 🌐 Developer Footprints
-- Skyline View of my GitHub: [skyline.github.com/njmsaikat/2021](https://skyline.github.com/njmsaikat/2021)  
 - GitHub City: [honzaap.github.io/GithubCity](https://honzaap.github.io/GithubCity/?name=njmsaikat&year=2021)  
 - Google Developer Profile: [g.dev/njmsaikat](https://g.dev/njmsaikat)  
 

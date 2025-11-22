@@ -8,25 +8,25 @@
 [![Linkedin: Saikat](https://img.shields.io/badge/-njmsaikat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njmsaikat/)](https://www.linkedin.com/in/njmsaikat/)
 [![GitHub Saikat](https://img.shields.io/github/followers/njmsaikat?label=follow&style=social)](https://github.com/njmsaikat)
 
-Web Developer | Reader | Learner | Tech Enthusiast | Open Source supporter and contributor.
+## 👋 Hi, I’m Saikat Roy  
 
-Feel passionate about what I do. 🤠
+**Software Engineer | Backend Architect | Open Source Contributor | Tech Enthusiast**  
 
-- 🌱 I’m currently playing with Database Relations, PostgreSQL, Python, Django, ReactJS, AWS
+I’m passionate about building scalable, maintainable systems and love exploring how technology can solve real-world problems. 🚀  
 
-- 🔭 Worked on Web-Design and Developing, PHP, MySql, Wordpress, Shopify
+- 🌱 **Currently exploring**: Advanced Database Relations, PostgreSQL, Django, Python, ReactJS, AWS  
+- 🔭 **Past experience**: Web Design & Development with PHP, MySQL, WordPress, Shopify  
+- ⚡ **Core strengths**: Architect-level backend design, API ergonomics, query optimization, and production-grade deployments  
+- 👯 **Comfortable with**: Git, Docker, NGINX, Apache, Redis, DigitalOcean  
+- 📖 **Interests**: Designing robust relational schemas, real-time performance optimization, and intuitive API design  
+- 😄 **Pronouns**: Soikot Roy  
+- 📫 **Reach me at**: [saikatroy.netlify.app](https://saikatroy.netlify.app/)  
+- 🌃 **Fun fact**: Most active in the mornings 🌅  
 
-- 👯 Comfortable with Git, Docker, NGINX, Apache, Digital Ocean
-
-- 😄 Pronouns: Soikot Roy
-
-- 📫 How to reach me: https://saikatroy.netlify.app/
-
-- ⚡ Fun fact: Active mostly at morning,
-- 🌃 Get a skyline View of my Repo -https://skyline.github.com/njmsaikat/2021
-- 🌆 Github city - [https://honzaap.github.io/GithubCity/](https://honzaap.github.io/GithubCity/?name=njmsaikat&year=2021)
-
-- Google Developer Profile - https://g.dev/njmsaikat
+### 🌐 Developer Footprints
+- Skyline View of my GitHub: [skyline.github.com/njmsaikat/2021](https://skyline.github.com/njmsaikat/2021)  
+- GitHub City: [honzaap.github.io/GithubCity](https://honzaap.github.io/GithubCity/?name=njmsaikat&year=2021)  
+- Google Developer Profile: [g.dev/njmsaikat](https://g.dev/njmsaikat)  
 
 ### 📊 Community Activities
 <a href="https://app.daily.dev/njmsaikat"><img src="https://github.com/njmsaikat/njmsaikat/blob/master/devcard.svg" width="230" alt="Saikat Roy's Dev Card"/></a>

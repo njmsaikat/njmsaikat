@@ -40,9 +40,9 @@ I’m passionate about building scalable, maintainable systems and love explorin
 
 ### My Latest Bookmark list on Daily.Dev
 <!-- daily.dev BOOKMARKS:START -->
-- [What I learned from the book Designing Data-Intensive Applications](https://app.daily.dev/posts/v9FGEp8by?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [No title](https://app.daily.dev/posts/LNknJ1tM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [No title](https://app.daily.dev/posts/lOLyurzgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [Cheatsheets for Developers](https://app.daily.dev/posts/2mkBsovAW?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
-- [Message Queues &amp; Message Brokers](https://app.daily.dev/posts/cbHI6WlD6?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [What I learned from the book Designing Data-Intensive Applications](https://daily.dev/posts/v9FGEp8by?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [No title](https://daily.dev/posts/LNknJ1tM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [No title](https://daily.dev/posts/lOLyurzgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [Cheatsheets for Developers](https://daily.dev/posts/2mkBsovAW?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
+- [Message Queues &amp; Message Brokers](https://daily.dev/posts/cbHI6WlD6?utm_source=rss&utm_medium=bookmarks&utm_campaign=VV5ONZFa6DwnpDjdUdH5T)
 <!-- daily.dev BOOKMARKS:END -->
